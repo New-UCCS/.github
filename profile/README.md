@@ -48,7 +48,7 @@ I will also be able to help you get into direct contact with that person. Everyo
 *I want to keep everyone safe, happy, and confidential at discretion*
 
 ## Current Admins
-* Nolan Taft - 
+* [Nolan Taft](https://github.com/dev-nolant) - 
   - Role: **Organization owner**
   - School Email: **[ntaft@uccs.edu](mailto:ntaft@uccs.edu)**
   - Looking for work? **No, but accepting offers @ [contact@nolant.org](mailto:contact@nolant.org)**
