@@ -9,25 +9,8 @@ This is the new GitHub organization for the [University of Colorado Colorado Spr
 * UCCS Students interested in the CS/CE fields and want to code!
 
 ## How do I join?
-Please email [uccs@nolantaft.com](mailto:uccs@nolantaft.com?subject=Register&body=Name(required)%0AGitHub%20Name%2FEmail(required)%0AUCCS%20Email(required)%0AClass%20Number%20(1%20for%20CS%2C%202%20for%20Game%20Dev%2C%203%20for%20CE%2C%204%20for%20Other)%20(required)%0AMajor(optional)%20Reason%20for%20join(optional)%0A) the following text or just click the email and it will set up the formatting for you. Fill out all required spots and subject must be "Register".
-```
-Name(required)
-GitHub Name/Email(required)
-UCCS Email(required)
-Class Number (1 for CS, 2 for Game Dev, 3 for CE, 4 for Other)(required)
-Major(optional)
-Reason for join(optional)
-```
-It should look something like this:
-```
-Nolan Taft
-Dev-NolanT
-ntaft@uccs.edu
-1
-Computer Science
-I love you!
-```
-My automation system will filter through this and add you if done correctly!
+Please email [uccs@nolantaft.com] your UCCS email and your GitHub name! One of our admins will send you an invite, and you will be notified.
+
 ## Contributing
 * Once added to the organization feel free to share your best work! 
 
