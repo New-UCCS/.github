@@ -54,6 +54,10 @@ I will also be able to help you get into direct contact with that person. Everyo
   - Role: **Organization owner**
   - School Email: **[ntaft@uccs.edu](mailto:ntaft@uccs.edu)**
   - Looking for work? **No, but accepting offers @ [contact@nolant.org](mailto:contact@nolant.org)**
+* [Jaylan Long](https://github.com/Jaylan1) -
+  - Role: **HeadAdmin**
+  - School Email: **[jlong6@uccs.edu](mailto:jlong6@uccs.edu)**
+  - Looking for work? **Yes, message me [here](mailto:jlong6@uccs.edu) for inquireies**
 ## License
 This organization is independently owned by Nolan Taft. UCCS has no affiliation. 
 
