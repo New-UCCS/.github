@@ -14,6 +14,7 @@ Please email [uccs@nolantaft.com](mailto:uccs@nolantaft.com?subject=Register&bod
 Name(required)
 GitHub Name/Email(required)
 UCCS Email(required)
+Class Number (1 for CS, 2 for CE, 3 for Game Dev)(required)
 Major(optional)
 Reason for join(optional)
 ```
@@ -22,6 +23,7 @@ It should look something like this:
 Nolan Taft
 Dev-NolanT
 ntaft@uccs.edu
+1
 Computer Science
 I love you!
 ```
