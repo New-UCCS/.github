@@ -14,7 +14,7 @@ Please email [uccs@nolantaft.com](mailto:uccs@nolantaft.com?subject=Register&bod
 Name(required)
 GitHub Name/Email(required)
 UCCS Email(required)
-Class Number (1 for CS, 2 for Game Dev, 3 for Other)(required)
+Class Number (1 for CS, 2 for Game Dev, 3 for CE, 4 for Other)(required)
 Major(optional)
 Reason for join(optional)
 ```
