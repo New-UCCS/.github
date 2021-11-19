@@ -1,6 +1,6 @@
 # Welcome
 
-This is a new GitHub organization for the [University of Colorado Colorado Springs](https://www.uccs.edu). This is informal and for fun. The old organization is dilapidated, so I created this new one.
+This is the new GitHub organization for the [University of Colorado Colorado Springs](https://www.uccs.edu). This is informal and for fun. The old organization is dilapidated, so I created this new one.
 
 ## Who is able to join?
 
