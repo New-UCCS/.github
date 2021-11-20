@@ -14,7 +14,7 @@ This is the unoffical GitHub organization for the [University of Colorado Colora
 
 * We will have people from businesses and companies looking at the projects from UCCS, so once you join make sure to share your best work.
 
-## Contributing
+# Contributing
 * Once added to the organization you can request to join a team based on your major/minor or interested major/minor.
 
 * Once you are added to a team feel free to share your best work! 
@@ -28,7 +28,7 @@ This is the unoffical GitHub organization for the [University of Colorado Colora
 * Please make sure to update code to make it as appropriate as needed.
 
 
-## Are you looking to hire from UCCS?
+# Are you looking to hire from UCCS?
 **Get into contact with me and I will help you find someone perfect for you!**
 
 This is a diverse community, so finding someone that fits your needs may be difficult. 
