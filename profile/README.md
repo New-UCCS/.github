@@ -10,7 +10,7 @@ This is the unoffical GitHub organization for the [University of Colorado Colora
 Please email [uccs@nolantaft.com] your UCCS email and your GitHub name! One of our admins will send you an invite, and you will be notified.
 
 ## Contributing
-* Once added to the organization you can request to join a team where you can feel free to share your best work! 
+* Once added to the organization you can request to join a team based on your major/minor or interested major/minor where you can feel free to share your best work! 
 
 * Please note: documentation is an absolute must. Lack of documentation can lead to issues in understanding what your code is for. 
 
