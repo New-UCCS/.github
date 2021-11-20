@@ -7,7 +7,7 @@ This is the unoffical GitHub organization for the [University of Colorado Colora
 * Anyone in the Engineering Field at UCCS is able to join our organization and contribute.
 
 ## How do I join the organization?
-* Please email [uccs@nolantaft.com] your UCCS email and your GitHub name! One of our admins will send you an invite, and you will be notified.
+* Please email [uccs@nolantaft.com](mailto:uccs@nolantaft.com) your UCCS email and your GitHub name! One of our admins will send you an invite, and you will be notified.
 
 ## Who is able to look at the projects from the organization?
 * Anyone who is willing to look at the amazing projects of UCCS!
