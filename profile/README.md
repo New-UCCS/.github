@@ -1,12 +1,10 @@
 # Welcome
 
-This is the new GitHub organization for the [University of Colorado Colorado Springs](https://www.uccs.edu). This is informal and for fun. The old organization is dilapidated, so I created this new one.
+This is the unoffical GitHub organization for the [University of Colorado Colorado Springs](https://www.uccs.edu). This is all for fun, and has zero affilifation to the college. The old organization is no longer running, so we decided to make this new one.
 
 ## Who is able to join?
 
-* Computer Science Students - Or similar fields.
-* Computer Engineering Students
-* UCCS Students interested in the CS/CE fields and want to code!
+* We welcome anyone in the Engineering Field to join our organization.
 
 ## How do I join?
 Please email [uccs@nolantaft.com] your UCCS email and your GitHub name! One of our admins will send you an invite, and you will be notified.
