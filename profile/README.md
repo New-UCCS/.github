@@ -22,6 +22,10 @@ This is the unoffical GitHub organization for the [University of Colorado Colora
 
 * Once you are added to a team feel free to share your best work! 
 
+### How to contribute and share your work?
+
+* First click on the teams tab and go through the tutorials and then click on your Major's team then click on your personal repo and start by uploading your files and editing your read me file to show documentation of your work. Feel free to look at "FightForTheThrone" as an example read me file.
+
 * Please note: documentation is an absolute must. Lack of documentation can lead to issues in understanding what your code is for. 
 
 * All languages are accepted.
