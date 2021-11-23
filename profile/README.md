@@ -2,6 +2,9 @@
 
 This is the unoffical GitHub organization for the [University of Colorado Colorado Springs](https://www.uccs.edu). This is all for fun, and has zero affilifation to the college. The old organization is no longer running, so we decided to make this new one.
 
+## What is this for?
+* This is a GitHub for all Engineering students to showcase their profilios to Employeers and outside contractors that are linked to UCCS.
+
 ## Who is able to join organization?
 
 * Anyone in the Engineering Field at UCCS is able to join our organization and contribute.
