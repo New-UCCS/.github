@@ -44,6 +44,12 @@ I will also be able to help you get into direct contact with that person. Everyo
 
 *I want to keep everyone safe, happy, and confidential at discretion*
 
+#Where to go next?
+* I would recommend if you are new to github to click on Tutorial-Important in the Teams and go through the folders
+
+## After that?
+*I recommend to contribute!
+
 ## Current Admins
 * [Nolan Taft](https://github.com/dev-nolant) - 
   - Role: **Organization owner**
