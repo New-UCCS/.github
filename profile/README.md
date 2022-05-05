@@ -38,7 +38,9 @@ This is the unoffical GitHub organization for the [University of Colorado Colora
 # Are you looking to hire from UCCS?
 **Get into contact with me and I will help you find someone perfect for you!**
 
-This is a diverse community, so finding someone that fits your needs may be difficult. 
+This is a diverse community, so finding someone that fits your needs is right around the corner.
+
+Tips to help out is to go into Teams and click on the major you are looking for in particular and click on Repositories of students' best projects. Now we know this is alot of work so look no further we hold weekly contest in which we pin the winners projects right under this post.
 
 I will also be able to help you get into direct contact with that person. Everyone in here has been linked with a contact email, so I will reach out to them and get the details you request.
 
