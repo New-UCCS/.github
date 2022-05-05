@@ -50,7 +50,7 @@ I will also be able to help you get into direct contact with that person. Everyo
 * I would recommend if you are new to github to click on GitHub Contribution Tutorials in the Teams tab.
 
 ## After that?
-*I recommend to contribute!
+* I recommend to contribute!
 
 ## Current Admins
 * [Nolan Taft](https://github.com/dev-nolant) - 
